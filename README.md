@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mateuscarlos
 - 👀 I’m interested in Mobile e Front-end
-- 💞️ I’m looking to collaborate on ...
+- 💡Initiating to learn .Net
 - 📫 How to reach me: https://www.linkedin.com/in/mateuscarlos05/
 
 <!---
